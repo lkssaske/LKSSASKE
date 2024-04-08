@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>lks saske.com </title>
+<title>LKS SASKE</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -76,7 +76,7 @@
 <div class="dropdown">
   <button>MENU</button>
   <div class="dropdown-content">
-    <a style="background-color:Tomato;" href="index.html">Home</a>
+    <a style="background-color:Tomato;" href="https://README.md">Home</a>
     <a style="background-color:Tomato;" href="About.html">About</a>
     <a style="background-color:Tomato;" href="https://youtube.com/@lks_saske.?si=UcuZfV2FPUeSvwaa">Youtube</a>
     <a style="background-color:Tomato;"href="https://www.facebook.com/profile.php?id=100092680726769">Contact us </a>
